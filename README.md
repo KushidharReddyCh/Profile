@@ -1,2 +1,2 @@
 # cv98
-A simple profile.
+A Simple Profile.
